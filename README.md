@@ -1,2 +1,2 @@
-# musical-instruments-emojis
+# musical-instrument-emojis
 Created with CodeSandbox
